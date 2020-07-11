@@ -1,5 +1,7 @@
 # Gold price prediction and analysis of factors affecting gold price
-<p>Domain: Legal Analytics</p>
-<p>Skills: Neural Networks, R, TABLEAU, Linear Regression, Exploratory Data Analysis</p>
-<p>Description: <li>Water quality is a serious problem in India. Many water sources have been rendered unsafe for human consumption as well as for other activities, such as irrigation and industrial needs. We aim to study the water quality data for major and minor rivers in India to identify trends w.r.t to various monitored parameters. Identifying the bio-physio and chemical parameters that correlate with the dissolved oxygen parameter and build a predictive model to predict the most important indicator of water quality.</li>
-<li>Based on our analysis, Neural Network Model is able to explain maximum variations in DO with least RMSE value in comparison to Multiple Linear Regression and MARS. The final NN model will help in predicting DO and thus will help in understanding the health of aquatic ecosystem. Our exploratory data analysis also helps in classifying water bodies on the basis of water quality criteria for various water usages all across India. This analysis will help in redefining water management system.</li></p>
+<p>Domain: Capital Markets</p>
+<p>Skills: Logistic Regression, R, TABLEAU, Time Series Analysis, Exploratory Data Analysis</p>
+<p>Description: <li>Predicting the gold price for investors to make informed decisions and effect of various geopolitical and economic factors on the price of gold across the global market.
+</li>
+<li>At the end we were able to find the trend in predicting gold price based on various factors like employment rate, inflation, bank interest rates and also found meaningful insights from the data
+</li></p>
